@@ -19,12 +19,12 @@ Melhorar as habilidades de lógica de programação fazendo mini-projetos diári
 
 ### Lógica de Programação com Javascript
 
-*   [Dia 001 - Trabalhando com Operadores Lógicos em Javascript](https://#); 
-*   [Dia 002 - Trabalhando com Variáveis em Javascript](https://#); 
-*   [Dia 003 - Trabalhando com Fluxo de Decisão em Javascript](https://#); 
-*   [Dia 004 - Trabalhando Loops e Randomização em Javascript](https://#); 
-*   [Dia 005 - Trabalhando com Arrays e Coleções em Javascript](https://#); 
-*   [Dia 006 - Trabalhando com remoção de Arrays em Javascript](https://#); 
-*   [Dia 007 - Trabalhando com Funções em Javascript](https://#); 
+*   [Dia 001 - Trabalhando com Operadores Lógicos em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-001/); 
+*   [Dia 002 - Trabalhando com Variáveis em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-002/); 
+*   [Dia 003 - Trabalhando com Fluxo de Decisão em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-003/); 
+*   [Dia 004 - Trabalhando Loops e Randomização em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-004/); 
+*   [Dia 005 - Trabalhando com Arrays e Coleções em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-005/); 
+*   [Dia 006 - Trabalhando com remoção de Arrays em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-006/); 
+*   [Dia 007 - Trabalhando com Funções em Javascript](https://github.com/srrogerio/7_Days_of_Code_Alura_2025/JavaScript/Dia-007/); 
 
 ## HTML e CSS
